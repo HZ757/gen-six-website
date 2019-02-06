@@ -126,7 +126,7 @@ p a:hover::after
 ::selection
 {
 	background: #fde0db;
-	color: #ff4200;
+	color: #000000;
 }
 p::selection
 {
@@ -265,7 +265,7 @@ section
 {
 	width: 187px;
 	height: 66px;
-	background: #ff4200;
+	background: #000000;
 	overflow: hidden;
 }
 .button a
@@ -369,12 +369,12 @@ section
 	position: absolute;
 	top: 0;
 	left: -5px;
-	color: #ff4200;
+	color: #000000;
 	z-index: -1;
 }
 .logo span:last-of-type
 {
-	color: #ff4200;
+	color: #000000;
 }
 
 /*********************************
@@ -419,7 +419,7 @@ section
 }
 .nav_items li.active
 {
-	background: #ff4200;
+	background: #000000;
 }
 .nav_items li.active a
 {
@@ -427,7 +427,7 @@ section
 }
 .nav_items li:hover
 {
-	background: #ff4200;
+	background: #000000;
 }
 .nav_items li:hover a
 {
@@ -615,7 +615,7 @@ section
 	position: absolute;
 	top: -1px;
 	left: -5px;
-	color: #ff4200;
+	color: #000000;
 	z-index: -1;
 }
 .fs_menu_list li a > span::after
@@ -764,12 +764,12 @@ section
 }
 .main_slider_custom_dots li.active
 {
-	background: #ff4200;
+	background: #000000;
 }
 .main_slider_custom_dot.active,
 .main_slider_custom_dot:hover
 {
-	background: #ff4200;
+	background: #000000;
 }
 
 /*********************************
@@ -804,7 +804,7 @@ section
 }
 .main_slider_nav:hover i
 {
-	color: #ff4200;
+	color: #000000;
 }
 
 /*********************************
@@ -818,7 +818,7 @@ section
 	right: 0px;
 	width: auto;
 	height: 74px;
-	background: #ff4200;
+	background: #000000;
 	z-index: 11;
 	padding-right: 38px;
 	padding-left: 45px;
@@ -1002,7 +1002,7 @@ section
 }
 .section_title_dark h2::before
 {
-	background: #ff4200;
+	background: #000000;
 }
 .testimonials_container
 {
@@ -1070,14 +1070,14 @@ section
 {
 	font-size: 15px;
 	font-weight: 400;
-	color: #ff4200;
+	color: #000000;
 	margin-top: -5px;
 }
 .test_quote
 {
 	font-size: 30px;
 	line-height: 1;
-	color: #ff4200;
+	color: #000000;
 	font-style: italic;
 	margin-top: 15px;
 }
@@ -1123,7 +1123,7 @@ section
 }
 .test_slider_nav:hover
 {
-	background: #ff4200;
+	background: #000000;
 }
 .test_slider_nav:hover i
 {
@@ -1132,7 +1132,7 @@ section
 .test_slider_nav i
 {
 	font-size: 18px;
-	color: #ff4200;
+	color: #000000;
 }
 .test_slider_nav_left
 {

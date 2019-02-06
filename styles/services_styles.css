@@ -102,7 +102,7 @@ p a:hover::after
 ::selection
 {
 	background: #fde0db;
-	color: #ff4200;
+	color: #020202;
 }
 p::selection
 {
@@ -241,7 +241,7 @@ section
 {
 	width: 187px;
 	height: 66px;
-	background: #ff4200;
+	background: #020202;
 	overflow: hidden;
 }
 .line_button
@@ -349,12 +349,12 @@ section
 	position: absolute;
 	top: 0;
 	left: -5px;
-	color: #ff4200;
+	color: #020202;
 	z-index: -1;
 }
 .logo span:last-of-type
 {
-	color: #ff4200;
+	color: #020202;
 }
 
 /*********************************
@@ -399,7 +399,7 @@ section
 }
 .nav_items li.active
 {
-	background: #ff4200;
+	background: #020202;
 }
 .nav_items li.active a
 {
@@ -407,7 +407,7 @@ section
 }
 .nav_items li:hover
 {
-	background: #ff4200;
+	background: #020202;
 }
 .nav_items li:hover a
 {
@@ -595,7 +595,7 @@ section
 	position: absolute;
 	top: -1px;
 	left: -5px;
-	color: #ff4200;
+	color: #020202;
 	z-index: -1;
 }
 .fs_menu_list li a > span::after
@@ -659,7 +659,7 @@ section
 	right: 0px;
 	width: auto;
 	height: 74px;
-	background: #ff4200;
+	background: #020202;
 	z-index: 11;
 	padding-right: 38px;
 	padding-left: 45px;
@@ -916,7 +916,7 @@ section
 	font-size: 12px;
 	font-weight: 600;
 	letter-spacing: 0.2em;
-	color: #ff4200;
+	color: #020202;
 	text-transform: uppercase;
 	margin-top: 11px;
 	-webkit-transition: all 200ms ease;
