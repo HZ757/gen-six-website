@@ -123,7 +123,7 @@ p a:hover::after
 ::selection
 {
 	background: #fde0db;
-	color: #ff4200;
+	color: #000000;
 }
 p::selection
 {
@@ -262,7 +262,7 @@ section
 {
 	width: 187px;
 	height: 66px;
-	background: #ff4200;
+	background: #000000;
 	overflow: hidden;
 }
 .line_button
@@ -375,12 +375,12 @@ section
 	position: absolute;
 	top: 0;
 	left: -5px;
-	color: #ff4200;
+	color: #000000;
 	z-index: -1;
 }
 .logo span:last-of-type
 {
-	color: #ff4200;
+	color: #000000;
 }
 
 /*********************************
@@ -425,7 +425,7 @@ section
 }
 .nav_items li.active
 {
-	background: #ff4200;
+	background: #000000;
 }
 .nav_items li.active a
 {
@@ -433,7 +433,7 @@ section
 }
 .nav_items li:hover
 {
-	background: #ff4200;
+	background: #000000;
 }
 .nav_items li:hover a
 {
@@ -621,7 +621,7 @@ section
 	position: absolute;
 	top: -1px;
 	left: -5px;
-	color: #ff4200;
+	color: #000000;
 	z-index: -1;
 }
 .fs_menu_list li a > span::after
@@ -685,7 +685,7 @@ section
 	right: 0px;
 	width: auto;
 	height: 74px;
-	background: #ff4200;
+	background: #000000;
 	z-index: 11;
 	padding-right: 38px;
 	padding-left: 45px;
@@ -856,7 +856,7 @@ section
 {
 	width: 129px;
 	height: 40px;
-	background: #ff4200;
+	background: #000000;
 	margin-top: 35px;
 }
 .date_box span
@@ -925,7 +925,7 @@ section
 	font-size: 12px;
 	font-weight: 600;
 	letter-spacing: 0.2em;
-	color: #ff4200;
+	color: #000000;
 	text-transform: uppercase;
 	margin-top: 18px;
 	-webkit-transition: all 200ms ease;
@@ -970,7 +970,7 @@ section
 }
 .blog_nav ul li.active
 {
-	background: #ff4200;
+	background: #000000;
 }
 .blog_nav ul li a
 {
@@ -995,7 +995,7 @@ section
 }
 .blog_nav ul li:hover
 {
-	background: #ff4200;
+	background: #000000;
 }
 
 /*********************************
@@ -1024,7 +1024,7 @@ section
 }
 #blog_search:focus
 {
-	border: solid 2px #ff4200 !important;
+	border: solid 2px #000000 !important;
 	box-shadow: none !important;
 	outline: none !important;
 }
@@ -1097,7 +1097,7 @@ section
 	left: 0;
 	width: 43px;
 	height: 2px;
-	background: #ff4200;
+	background: #000000;
 	content: '';
 }
 
@@ -1127,7 +1127,7 @@ section
 }
 .recent_post_title a:hover
 {
-	color: #ff4200;
+	color: #000000;
 }
 .recent_post_date
 {
@@ -1204,7 +1204,7 @@ section
 }
 .tabs_container ul li.active span
 {
-	color: #ff4200;
+	color: #000000;
 }
 .tab_container
 {
@@ -1250,7 +1250,7 @@ section
 }
 .popular_post_title a:hover
 {
-	color: #ff4200;
+	color: #000000;
 }
 .popular_post_date
 {

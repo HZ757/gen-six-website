@@ -112,7 +112,7 @@ p a:hover::after
 ::selection
 {
 	background: #fde0db;
-	color: #ff4200;
+	color: #000000;
 }
 p::selection
 {
@@ -221,7 +221,7 @@ section
 {
 	width: 187px;
 	height: 66px;
-	background: #ff4200;
+	background: #000000;
 	overflow: hidden;
 }
 .line_button
@@ -334,12 +334,12 @@ section
 	position: absolute;
 	top: 0;
 	left: -5px;
-	color: #ff4200;
+	color: #000000;
 	z-index: -1;
 }
 .logo span:last-of-type
 {
-	color: #ff4200;
+	color: #000000;
 }
 
 /*********************************
@@ -384,7 +384,7 @@ section
 }
 .nav_items li.active
 {
-	background: #ff4200;
+	background: #000000;
 }
 .nav_items li.active a
 {
@@ -392,7 +392,7 @@ section
 }
 .nav_items li:hover
 {
-	background: #ff4200;
+	background: #000000;
 }
 .nav_items li:hover a
 {
@@ -580,7 +580,7 @@ section
 	position: absolute;
 	top: -1px;
 	left: -5px;
-	color: #ff4200;
+	color: #000000;
 	z-index: -1;
 }
 .fs_menu_list li a > span::after
@@ -644,7 +644,7 @@ section
 	right: 0px;
 	width: auto;
 	height: 74px;
-	background: #ff4200;
+	background: #000000;
 	z-index: 11;
 	padding-right: 38px;
 	padding-left: 45px;
@@ -804,7 +804,7 @@ section
 	left: 0;
 	width: 43px;
 	height: 2px;
-	background: #ff4200;
+	background: #000000;
 	content: '';
 }
 
@@ -827,7 +827,7 @@ section
 .input_field:focus,
 .text_field:focus
 {
-	border: solid 2px #ff4200 !important;
+	border: solid 2px #000000 !important;
 	box-shadow: none !important;
 	outline: none !important;
 }
@@ -868,7 +868,7 @@ section
 	position: relative;
 	width: 153px;
     height: 66px;
-    background: #ff4200;
+    background: #000000;
     overflow: hidden;
     border: none;
     font-size: 11px;
@@ -1010,7 +1010,7 @@ section
 	left: 0;
 	width: 43px;
 	height: 2px;
-	background: #ff4200;
+	background: #000000;
 	content: '';
 }
 
@@ -1045,7 +1045,7 @@ section
 	left: 0;
 	width: 9px;
 	height: 9px;
-	background: #ff4200;
+	background: #000000;
 	content: '';
 }
 
